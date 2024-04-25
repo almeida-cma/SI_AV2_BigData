@@ -1,5 +1,5 @@
 # SI_AV2_BigData
-Big Data
+Big Data: Necessário validar análise com Google planilhas.
 
 Enviar análise para repositório do seu GitHub e preencher o formulário abaixo com o nome dos intergrantes da equipe e repositório escolhido: https://almeida-cma.github.io/receber/
 
